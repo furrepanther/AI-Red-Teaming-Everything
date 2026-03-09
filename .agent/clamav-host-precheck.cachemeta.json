@@ -1,0 +1,10 @@
+{
+  "tool": "clamav_host_precheck",
+  "repo_path": "/mnt/f/Github/AI-Red-Teaming-Everything",
+  "repo_head": "2f4b8c7f4fb8813adf8e9a7020bdf73bb32f25c8",
+  "gate_phase": "3",
+  "clamav_required": "1",
+  "clamav_script_sha": "21adda48e2c13176fe7c5d0f703667c37ee9622799bf4443f98a07e2c8fab26d",
+  "report_path": "/mnt/f/Github/AI-Red-Teaming-Everything/.agent/clamav-host-precheck.json",
+  "generated_at_epoch": 1772906144
+}
